@@ -58,7 +58,7 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
-- [아직]
+- [https://cod-ing.tistory.com/]
 
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
 
