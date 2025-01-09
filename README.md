@@ -55,7 +55,8 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📜논문</h2>
 
-.
+-  `대학 챗봇 활용의 인식 및 효율성 평가`
+-  `소규모 개발 환경에서 효율적인 딥러닝 모델 선택 방안`
 
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
@@ -68,16 +69,23 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">대외활동</h2>
 
-- `응애`
+- `12기 아기사자 수료 (2024.03 ~ 2024.12)`
 
 
 <h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
-- `응애`
+- `한국정보기술학회 대학생논문경진대회 동상`
+  •  `대학 챗봇 활용의 인식 및 효율성 평가`
+  •  `소규모 개발 환경에서 효율적인 딥러닝 모델 선택 방안`
+- `창의융합형 인재양성 공유‧협업 페스티발 공모전 우수상`
+  • `온오프라인 스터디매칭 플랫폼 개발`
+  • `실시간 채팅 플랫폼 구현`
 
 <h2 style="display: inline-block; vertical-align: middle;">공모전 출전 경험 </h2>
 
 -  `멋쟁이 사자처럼 12기 중앙 해커톤(2024년)`
+-  `한국정보기술학회 대학생논문경진대회(2024년)`
+-  `창의융합형 인재양성 공유‧협업 페스티발 공모전(2024년)`
 ## 
 
 
