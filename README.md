@@ -4,7 +4,7 @@
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
 - 계명대학교 컴퓨터공학부 컴퓨터공학과에 재학중인 한동균 입니다.
-- 백엔드 씹장인 기릿
+- Spring을 이용한 백엔드 공부중
 
 <h2 style="display: inline-block; vertical-align: middle;">🚀운영중인 서비스</h2>
 
