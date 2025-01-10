@@ -16,8 +16,51 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">💼 프로젝트 포트폴리오</h2>
 
-- `[온오프라인 스터디 매칭 서비스]` - React Native
-  - [https://github.com/dongsubnambuk/studymatching-smashing]
+<div align="center">
+<table>
+<tr>
+<td width="33.3%">
+<h3 align="center">🍽️ 식단 배송 서비스</h3>
+<div align="center">
+<a href="http://nimn.store/" target="_blank"><img src="https://img.shields.io/badge/DEMO-6EC7FF?style=for-the-badge&logo=Safari&logoColor=white" alt="Demo Button" /></a>
+<a href="https://github.com/2-jjong/LikeLion-12th-Hackathon" target="_blank"><img src="https://img.shields.io/badge/CODE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="Code Button" /></a>
+</div>
+<br />
+<p><strong>React, Spring Boot, MySQL</strong> - 맞춤형 식단 배송 서비스 플랫폼</p>
+<ul>
+  <li>주문 하기 및 결제</li>
+  <li>AI기반 식단 생성</li>
+</ul>
+</td>
+<td width="33.3%">
+<h3 align="center">♻️ 업사이클링 제품 판매 서비스</h3>
+<div align="center">
+<a href="https://www.refresh-f5.store/" target="_blank"><img src="https://img.shields.io/badge/DEMO-6EC7FF?style=for-the-badge&logo=Safari&logoColor=white" alt="Demo Button" /></a>
+<a href="https://github.com/TEAM-CP6Q/Reload_F5" target="_blank"><img src="https://img.shields.io/badge/CODE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="Code Button" /></a>
+</div>
+<br />
+<p><strong>React, Spring, MongoDB</strong> - 환경 친화적 업사이클링 제품 거래 플랫폼</p>
+<ul>
+  <li>실시간 결제 시스템 구현</li>
+  <li>위치 기반 폐기물 수거 서비스</li>
+</ul>
+</td>
+  <td width="33.3%">
+<h3 align="center">온오프라인 스터디 매칭 플랫폼</h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/DEMO-6EC7FF?style=for-the-badge&logo=Safari&logoColor=white" alt="Demo Button" /></a>
+<a href="https://github.com/dongsubnambuk/SMASHING" target="_blank"><img src="https://img.shields.io/badge/CODE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="Code Button" /></a>
+</div>
+<br />
+<p><strong>ReactVative, FireBase</strong> - 효율적인 스터디 관리</p>
+<ul>
+  <li>온오프라인 스터디 생성 및 참여</li>
+  <li>위치 기반 스터디 생성</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
 
 
 
