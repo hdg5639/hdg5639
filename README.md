@@ -26,7 +26,7 @@
 <a href="https://github.com/2-jjong/LikeLion-12th-Hackathon" target="_blank"><img src="https://img.shields.io/badge/CODE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="Code Button" /></a>
 </div>
 <br />
-<p><strong>React, Spring Boot, MySQL</strong> - 맞춤형 식단 배송 서비스 플랫폼</p>
+<p><strong>React, Spring, MySQL</strong> - 맞춤형 식단 배송 서비스 플랫폼</p>
 <ul>
   <li>주문 하기 및 결제</li>
   <li>AI기반 식단 생성</li>
@@ -52,7 +52,7 @@
 <a href="https://github.com/dongsubnambuk/SMASHING" target="_blank"><img src="https://img.shields.io/badge/CODE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="Code Button" /></a>
 </div>
 <br />
-<p><strong>ReactVative, FireBase</strong> - 효율적인 스터디 관리</p>
+<p><strong>ReactNative, FireBase</strong> - 효율적인 스터디 관리</p>
 <ul>
   <li>온오프라인 스터디 생성 및 참여</li>
   <li>위치 기반 스터디 생성</li>
