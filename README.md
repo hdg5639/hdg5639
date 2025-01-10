@@ -98,6 +98,3 @@
 -  `한국정보기술학회 대학생논문경진대회(2024년)`
 -  `창의융합형 인재양성 공유‧협업 페스티발 공모전(2024년)`
 ## 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dongsubnambuk&theme=dark" alt="dongsubnambuk" /></p>
