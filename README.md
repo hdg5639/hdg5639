@@ -39,7 +39,7 @@
 <a href="https://github.com/TEAM-CP6Q/Reload_F5" target="_blank"><img src="https://img.shields.io/badge/CODE-37474F?style=for-the-badge&logo=github&logoColor=white" alt="Code Button" /></a>
 </div>
 <br />
-<p><strong>React, Spring, MongoDB</strong> - 환경 친화적 업사이클링 제품 거래 플랫폼</p>
+<p><strong>React, Spring, MariaDB</strong> - 환경 친화적 업사이클링 제품 거래 플랫폼</p>
 <ul>
   <li>실시간 결제 시스템 구현</li>
   <li>위치 기반 폐기물 수거 서비스</li>
