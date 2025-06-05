@@ -12,6 +12,8 @@
   - [http://nimn.store/]
 - `[재활용품 수거 업사이클링 제품 판매 서비스]`
   - [https://refresh-f5.store]
+- `[멋쟁이사자처럼 13기 출결 관리 및 세션 관리 플랫폼 서버 개발]`
+  - [https://likelion-13th-att.netlify.app]
 
 
 <h2 style="display: inline-block; vertical-align: middle;">💼 프로젝트 포트폴리오</h2>
