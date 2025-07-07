@@ -7,7 +7,7 @@
   <p>끝까지 파고드는 집요함, 그것이 나의 개발 방식</p>
   
   [![Email](https://img.shields.io/badge/Email-hdg5639@naver.com-007396?style=flat-square&logo=gmail&logoColor=white)](mailto:hdg5639@naver.com)
-  [![Blog](https://img.shields.io/badge/Blog-cod-ing.tistory.com-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://cod-ing.tistory.com/)
+  [![Blog](https://img.shields.io/badge/Blog-https://cod-ing.tistory.com-20C997?style=flat-square&logo=Tistory&logoColor=white)](https://cod-ing.tistory.com/)
 </div>
 
 ## 🎓 학력
