@@ -46,7 +46,7 @@
 > [GitHub Repository](추후 업로드 예정)
 
 ### 계명대학교 멋쟁이사자처럼 13기 출결 관리 플랫폼 (likelion-13th-att)
-> 멋쟁이사자처럼 13기 동아리 플랫폼
+> 멋쟁이사자처럼 13기 동아리 플랫폼<br>
 > [GitHub Repository](https://github.com/dongsubnambuk/likelion_att)
 - 동아리 세션 출결 및 교육자료 관리를 위한 플랫폼
 
