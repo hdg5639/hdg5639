@@ -45,7 +45,13 @@
 ### 우리동네영양사
 > [GitHub Repository](추후 업로드 예정)
 
+### 계명대학교 멋쟁이사자처럼 13기 출결 관리 플랫폼 (likelion-13th-att)
+> 멋쟁이사자처럼 13기 동아리 플랫폼
+> [GitHub Repository](https://github.com/dongsubnambuk/likelion_att)
+- 동아리 세션 출결 및 교육자료 관리를 위한 플랫폼
+
 ## 🏆 수상 경력
+- **2025년 한국정보기술학회 하계종합학술대회 및 대학생논문경진대회** | 은상 (ArcFace 기반 실시간 얼굴 비교 및 랜드마크 분석 시스템)
 - **2024년 4차 산업혁명 인재양성 공유 협업 페스티벌** | ICT솔루션(코딩)부문 우수상
 - **한국정보기술학회 2024년도 추계종합학술대회** | 우수논문상 (N-그램 및 임베딩 기반 표절 탐지 성능 비교)
 - **한국정보기술학회 2024년도 추계종합학술대회** | 우수논문상 (대학 챗봇 활용의 인식 및 효율성 평가)
@@ -62,5 +68,5 @@
   
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2e9fb,100:a1c4fd&height=120&section=footer" width="100%"/>
-  <p>© 2025 dongsubnambuk - Thank you for visiting!</p>
+  <p>© 2025 hdg5639 - Thank you for visiting!</p>
 </div>
