@@ -43,7 +43,8 @@
 - 환경 보호 의식 고취와 실천을 위한 통합 서비스 개발
 
 ### 우리동네영양사
-> [GitHub Repository](추후 업로드 예정)
+> 바쁜 현대인들을 위한 건강한 도시락 정기 구독 서비스  
+> [GitHub Repository](https://github.com/dongsubnambuk/LikeLion-12th-Hackathon)
 
 ### 계명대학교 멋쟁이사자처럼 13기 출결 관리 플랫폼 (likelion-13th-att)
 > 멋쟁이사자처럼 13기 동아리 플랫폼<br>
