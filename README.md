@@ -31,11 +31,9 @@
 
 
 ## 🚀 프로젝트
-### 스매싱 (Smashing)
-> 온오프라인 스터디 매칭 서비스  
-> [GitHub Repository](https://github.com/dongsubnambuk/SMASHING)
-- 2024년 4차 산업혁명 인재양성 공유 협업 페스티벌 우수상 수상
-- 스터디와 멘토를 손쉽게 찾을 수 있는 플랫폼 개발
+### 이벤토리(Eventroy)
+> AI기반 지역별 맞춤형 행사 추친 서비스  
+> [GitHub Repository](https://github.com/Likelion-13th-EGSBI)
 
 ### 새로고침 (Refresh)
 > 환경 보호와 자원 재활용을 중심으로 설계된 종합 플랫폼  
