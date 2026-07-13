@@ -50,6 +50,8 @@
 - 동아리 세션 출결 및 교육자료 관리를 위한 플랫폼
 
 ### 감자박스(GamjaBox)
+> Proxmox 기반 IaaS 플랫폼을 설계·개발한 클라우드/플랫폼
+> 셀프호스팅 기반 클라우드 인프라 플랫폼 — 풀스택·플랫폼 엔지니어링 프로젝트
 - [GitHub Repository](https://github.com/hdg5639/GJ-Cloud)
 - **라이브 서비스**: [gamjabox.cloud](https://portal.gamjabox.cloud)
 
