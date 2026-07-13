@@ -49,6 +49,10 @@
 > [GitHub Repository](https://github.com/dongsubnambuk/likelion_att)
 - 동아리 세션 출결 및 교육자료 관리를 위한 플랫폼
 
+### 감자박스(GamjaBox)
+- [GitHub Repository](https://github.com/hdg5639/GJ-Cloud)
+- **라이브 서비스**: [gamjabox.cloud](https://portal.gamjabox.cloud)
+
 ## 🏆 수상 경력
 - **2025년도 "지역혁신 인재양성" 연합 페스티발** | AI · DX 산출물 부문 우수상
 - **2025년 코드 인사이트 챌린지** | PT부문 우수상
